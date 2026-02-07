@@ -8,8 +8,6 @@ Welcome to the official GitHub organization for [Schroon Lake Department Store](
 
 Schroon Lake Department Store is more than just a store - it's a piece of Adirondack history. Our building has served the community for over 140 years, and we're committed to preserving that legacy while embracing modern retail solutions.
 
-**Current owners Amanda and Ryan took over the business in 2023**, bringing fresh energy while honoring the store's rich heritage and commitment to environmental stewardship.
-
 ### What We Offer
 
 - Outdoor gear and equipment
@@ -19,6 +17,7 @@ Schroon Lake Department Store is more than just a store - it's a piece of Adiron
 - Home decor and art
 - Balsam and maple products
 - Premium brands including Patagonia, Snow Peak, and Goodr
+- And more!
 
 ### Visit Us
 
@@ -35,12 +34,12 @@ Schroon Lake Department Store is more than just a store - it's a piece of Adiron
 Our retail operations are powered by:
 
 - **Point of Sale:** [Square](https://squareup.com)
-- **E-commerce:** [Shopify](https://schroonlakedepartmentstore.com)
+- **E-Commerce:** [Shopify](https://schroonlakedepartmentstore.com)
 
 ## Connect With Us
 
 - **Website:** [schroonlakedepartmentstore.com](https://schroonlakedepartmentstore.com)
-- **Email:** townestoreschroon@gmail.com
+- **Contact Us:** [Contact Us](https://www.schroonlakedepartmentstore.com/contact-us)
 - **Gift Cards:** Available online via Square
 
 ---
