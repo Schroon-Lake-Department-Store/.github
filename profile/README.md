@@ -27,15 +27,6 @@ Schroon Lake Department Store is more than just a store - it's a piece of Adiron
 | Thursday - Saturday | 10am - 5pm |
 | Sunday | 10am - 4pm |
 
-**Can't visit in person?** Take a [virtual 3D tour](https://schroonlakedepartmentstore.com) of our store or check out our Main Street webcam!
-
-## Technology
-
-Our retail operations are powered by:
-
-- **Point of Sale:** [Square](https://squareup.com)
-- **E-Commerce:** [Shopify](https://schroonlakedepartmentstore.com)
-
 ## Connect With Us
 
 - **Website:** [schroonlakedepartmentstore.com](https://schroonlakedepartmentstore.com)
